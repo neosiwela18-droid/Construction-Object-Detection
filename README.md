@@ -29,7 +29,7 @@
 
 ### Example Use Case of Image Object Detection and Localization:
 ---
-##The Original Image shows a men in construction gear:
+## The Original Image shows a men in construction gear:
 
 <img width="714" height="893" alt="image" src="https://github.com/user-attachments/assets/e58b44d0-59d6-473a-b3b1-90f1ae3faf3e" />
 
