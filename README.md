@@ -1,5 +1,31 @@
 # Construction-Object-Detection
 
+## All classes:
+
+1. boots	
+
+2. construction_vest	
+
+3. fork_lift	
+
+4. gloves	
+
+5. goggles	
+
+6. helmet	
+
+7. no_boots	
+
+8. no_construction_vest	
+
+9. no_gloves	
+
+10. no_goggles	
+
+11. no_helmet
+
+12. person
+
 The Original Image shows a men in construction gear:
 
 <img width="714" height="893" alt="image" src="https://github.com/user-attachments/assets/e58b44d0-59d6-473a-b3b1-90f1ae3faf3e" />
