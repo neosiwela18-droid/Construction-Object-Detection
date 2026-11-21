@@ -40,8 +40,8 @@ def bounding_box(frame, x, y, w, h, label, conf, colour):
         
     
     h_img, w_img = frame.shape[:2]
-    x1, y1 = max(0, x1), max(0, y1) #Never goes beyon (0,0)
-    x2, y2 = min(w_img - 1, x2), min(h_img - 1, y2) #Never goes beyond frame.shape[:2]
+    x1, y1 = max(0, x1), max(0, y1) #Never exceeds below the orgin (0,0)
+    x2, y2 = min(w_img - 1, x2), min(h_img - 1, y2) # Never goes beyond frame.shape[:2], this is just the height and width of the image.
 
     
     cv.rectangle(
